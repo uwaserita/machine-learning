@@ -1,0 +1,6 @@
+Cleaning Operation,Reason,Action
+Created working copy,Protect the original dataset,Copied original dataset
+Standardized column names,Remove unnecessary spaces,Trimmed column names
+Standardized categorical text,Avoid inconsistent spacing,Trimmed text values
+Converted numeric columns,Ensure correct numerical data types,Converted invalid numeric text to missing values
+Handled missing predictors,Prepare data for machine learning,Median and most-frequent imputation

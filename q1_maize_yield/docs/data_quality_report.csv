@@ -1,0 +1,21 @@
+Column,Data Type,Missing Values,Unique Values
+record_id,object,0,1426
+year,int64,0,10
+season,object,0,3
+province,object,0,5
+district,object,0,30
+altitude_m,int64,0,680
+rainfall_mm,float64,11,1225
+avg_temp_c,float64,0,76
+soil_ph,float64,14,211
+soil_type,object,0,5
+seed_variety,object,0,6
+farming_practice,object,0,2
+npk_kg_ha,float64,0,925
+urea_kg_ha,float64,0,732
+manure_t_ha,float64,0,463
+plant_density_per_ha,int64,0,1391
+farm_area_ha,float64,0,216
+irrigation,object,0,2
+pest_incidence_index,float64,14,563
+yield_t_ha,float64,0,308

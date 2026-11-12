@@ -1,0 +1,21 @@
+Column,Description
+record_id,Unique record identifier
+year,Year of farming
+season,Agricultural season
+province,Province where farming occurred
+district,District where farming occurred
+altitude_m,Farm altitude in metres
+rainfall_mm,Rainfall in millimetres
+avg_temp_c,Average temperature in Celsius
+soil_ph,Soil acidity level
+soil_type,Type of soil
+seed_variety,Maize seed variety
+farming_practice,Farming method
+npk_kg_ha,NPK fertilizer per hectare
+urea_kg_ha,Urea fertilizer per hectare
+manure_t_ha,Manure per hectare
+plant_density_per_ha,Plants per hectare
+farm_area_ha,Farm area in hectares
+irrigation,Whether irrigation is used
+pest_incidence_index,Pest incidence measurement
+yield_t_ha,Maize yield in tonnes per hectare

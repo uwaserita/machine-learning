@@ -1,0 +1,215 @@
+year,season,province,district,altitude_m,rainfall_mm,avg_temp_c,soil_ph,soil_type,seed_variety,farming_practice,npk_kg_ha,urea_kg_ha,manure_t_ha,plant_density_per_ha,farm_area_ha,irrigation,pest_incidence_index,soil_ph_difference,rainfall_category,pest_risk_category,yield_t_ha
+2021,A,Southern,Nyaruguru,1925,686.1,18.0,5.99,Loam,ZM607,Traditional,0.0,3.6,0.43,45687,0.86,No,0.25,0.5099999999999998,Moderate,Low,3.36
+2022,A,Eastern,Gatsibo,1449,452.2,21.0,5.97,Loam,PAN691,Traditional,46.7,3.1,0.0,46554,0.34,No,0.366,0.5300000000000002,Low,Low,2.94
+2024,C,Eastern,Ngoma,1496,150.0,20.9,6.5,Loam,PAN691,Improved,88.3,69.6,2.38,46215,0.51,No,0.243,0.0,Low,Low,2.31
+2016,B,Eastern,Rwamagana,1389,520.1,21.5,6.15,Clay loam,WH505,Improved,33.6,68.5,2.28,56345,0.3,No,0.676,0.3499999999999996,Moderate,Low,3.03
+2016,A,Eastern,Rwamagana,1379,576.4,20.2,6.38,Loam,RHM104,Traditional,29.4,15.3,1.77,40427,0.57,No,0.539,0.1200000000000001,Moderate,Low,2.73
+2022,B,Eastern,Kirehe,1387,501.0,20.7,6.37,Clay,WH505,Improved,111.0,48.9,1.92,55644,0.32,No,0.087,0.1299999999999999,Moderate,Low,3.48
+2019,A,Kigali,Kicukiro,1489,615.4,21.6,5.31,Clay,WH505,Improved,72.3,79.1,1.69,48655,1.03,No,0.206,1.1900000000000004,Moderate,Low,2.65
+2016,C,Northern,Gicumbi,1911,282.2,18.0,5.94,Clay loam,RHM104,Improved,36.2,88.1,5.1,53480,0.19,No,0.093,0.5599999999999996,Low,Low,2.47
+2020,B,Southern,Nyamagabe,2072,579.0,17.6,6.7,Sandy loam,RHM104,Improved,95.8,106.3,1.32,60444,0.84,No,0.562,0.2000000000000001,Moderate,Low,2.93
+2022,A,Western,Nyabihu,2201,774.2,17.3,5.35,Loam,PAN691,Traditional,3.6,0.0,2.35,42305,0.44,No,0.387,1.1500000000000004,Moderate,Low,3.34
+2021,B,Southern,Muhanga,1776,514.5,18.4,5.64,Loam,PAN691,Improved,164.7,24.2,1.27,47624,0.31,No,0.294,0.8600000000000003,Moderate,Low,3.27
+2015,B,Eastern,Kayonza,1456,493.0,21.3,5.84,Clay,ZM621,Improved,133.9,97.9,0.8,54811,0.43,No,0.272,0.6600000000000001,Low,Low,2.74
+2024,B,Southern,Gisagara,1601,536.0,19.7,5.71,Volcanic,PAN691,Improved,65.1,23.0,2.07,31817,0.63,No,0.326,0.79,Moderate,Low,3.16
+2016,B,Eastern,Gatsibo,1383,393.7,21.5,5.82,Loam,Local,Improved,83.4,20.3,0.86,42749,0.98,No,0.172,0.6799999999999997,Low,Low,1.8
+2022,C,Western,Nyamasheke,1808,255.2,17.9,5.78,Loam,WH505,Improved,84.3,114.3,4.74,59196,0.38,Yes,0.312,0.7199999999999998,Low,Low,3.02
+2019,B,Northern,Burera,1984,699.6,17.7,5.45,Clay loam,WH505,Traditional,35.7,0.1,1.36,43127,1.29,No,0.209,1.0499999999999998,Moderate,Low,2.76
+2016,B,Southern,Nyanza,1645,457.1,18.8,6.51,Volcanic,Local,Traditional,20.3,55.5,1.66,39531,0.53,No,0.277,0.0099999999999997,Low,Low,1.95
+2017,A,Eastern,Kirehe,1577,623.7,21.1,6.32,Clay loam,ZM607,Improved,137.6,106.2,1.61,53208,0.49,No,0.574,0.1799999999999997,Moderate,Low,2.85
+2016,A,Western,Nyabihu,2139,715.9,17.4,5.75,Clay loam,ZM607,Improved,112.6,93.5,3.58,55736,0.3,No,0.323,0.75,Moderate,Low,2.71
+2024,B,Western,Karongi,1680,565.5,19.4,5.73,Sandy loam,Local,Traditional,6.9,0.0,1.03,29170,0.76,No,0.461,0.7699999999999996,Moderate,Low,1.19
+2018,C,Western,Nyamasheke,1755,328.4,18.7,5.93,Clay,ZM621,Improved,68.6,97.7,5.09,54407,0.46,No,0.348,0.5700000000000003,Low,Low,1.93
+2016,A,Southern,Huye,1729,677.4,19.6,6.02,Clay loam,WH505,Traditional,29.4,19.4,2.57,32077,0.27,No,0.456,0.4800000000000004,Moderate,Low,2.62
+2019,A,Eastern,Nyagatare,1292,272.7,21.1,6.19,Clay,ZM607,Improved,133.2,71.4,2.75,49198,0.75,No,0.358,0.3099999999999996,Low,Low,2.76
+2024,A,Southern,Muhanga,1580,622.2,19.2,5.79,Loam,WH505,Traditional,68.5,19.9,5.16,35366,1.07,No,0.206,0.71,Moderate,Low,3.41
+2021,C,Southern,Nyanza,1690,252.2,19.6,5.72,Loam,WH505,Improved,115.6,40.1,2.15,59854,1.4,No,0.307,0.7800000000000002,Low,Low,2.2
+2016,B,Northern,Gicumbi,1944,466.3,17.5,5.26,Volcanic,RHM104,Traditional,32.7,3.3,0.0,38423,0.68,No,0.574,1.2400000000000002,Low,Low,2.17
+2024,B,Southern,Ruhango,1748,640.5,19.5,5.72,Loam,ZM621,Traditional,19.4,0.0,0.74,52609,0.71,No,0.247,0.7800000000000002,Moderate,Low,3.37
+2021,B,Eastern,Gatsibo,1273,454.6,22.0,6.18,Volcanic,ZM607,Traditional,77.2,33.8,2.33,29521,1.39,No,0.209,0.3200000000000003,Low,Low,2.66
+2023,B,Southern,Nyamagabe,1957,562.4,17.6,5.29,Loam,Local,Traditional,5.2,32.9,2.75,33862,1.22,No,0.504,1.21,Moderate,Low,1.4
+2015,B,Northern,Gakenke,1870,569.0,18.7,5.71,Sandy loam,Local,Traditional,81.9,24.6,0.0,40679,1.33,No,0.163,0.79,Moderate,Low,1.54
+2019,B,Western,Rusizi,1572,513.3,22.0,5.65,Volcanic,WH505,Improved,86.2,63.5,3.83,55272,1.39,No,0.166,0.8499999999999996,Moderate,Low,3.3
+2021,B,Kigali,Gasabo,1555,557.2,20.4,6.25,Volcanic,RHM104,Traditional,39.3,38.5,2.56,42199,0.66,No,0.171,0.25,Moderate,Low,4.02
+2016,A,Southern,Nyamagabe,2006,717.5,17.7,5.87,Clay,RHM104,Improved,98.7,20.5,3.06,64645,1.03,No,0.177,0.6299999999999999,Moderate,Low,3.73
+2024,A,Western,Nyamasheke,1867,639.0,20.4,5.31,Clay loam,ZM607,Traditional,26.8,22.3,2.38,50394,0.65,No,0.132,1.1900000000000004,Moderate,Low,2.94
+2015,B,Western,Rubavu,1673,616.7,19.5,5.02,Loam,ZM607,Traditional,0.0,15.2,3.78,37081,0.93,No,0.61,1.4800000000000004,Moderate,Low,1.91
+2016,B,Southern,Nyamagabe,2021,717.8,16.9,6.24,Clay loam,Local,Traditional,0.0,12.4,4.47,36912,0.88,No,0.236,0.2599999999999998,Moderate,Low,1.93
+2018,A,Eastern,Bugesera,1460,543.9,21.3,6.66,Loam,RHM104,Improved,139.6,83.1,0.41,52164,0.76,No,0.557,0.1600000000000001,Moderate,Low,2.85
+2020,A,Western,Rutsiro,1940,765.0,18.1,5.99,Clay,WH505,Improved,44.5,103.8,2.71,55048,0.87,No,0.224,0.5099999999999998,Moderate,Low,3.3
+2021,B,Western,Rubavu,1735,556.9,20.2,5.85,Clay loam,ZM621,Improved,9.5,86.9,1.27,60017,0.83,No,0.374,0.6500000000000004,Moderate,Low,3.34
+2023,A,Kigali,Gasabo,1495,514.6,21.4,5.77,Sandy loam,Local,Traditional,8.3,27.1,3.6,35324,0.68,No,0.344,0.7300000000000004,Moderate,Low,1.42
+2019,B,Southern,Nyamagabe,2072,646.0,17.4,6.57,Loam,ZM621,Improved,111.5,52.6,1.59,52436,0.93,No,0.573,0.0700000000000002,Moderate,Low,2.5
+2017,A,Kigali,Nyarugenge,1624,544.7,20.5,6.01,Sandy loam,ZM607,Traditional,19.5,5.6,2.54,25285,1.14,No,0.406,0.4900000000000002,Moderate,Low,1.94
+2019,B,Southern,Huye,1753,407.3,20.4,5.91,Loam,ZM607,Improved,101.5,58.5,0.0,53442,1.11,No,0.602,0.5899999999999999,Low,Low,2.36
+2021,A,Southern,Nyamagabe,1965,685.1,16.6,5.52,Sandy loam,RHM104,Traditional,30.4,9.2,3.29,42177,0.47,No,0.188,0.9800000000000004,Moderate,Low,3.17
+2016,C,Southern,Ruhango,1813,418.7,19.3,5.88,Clay loam,ZM621,Improved,172.7,38.9,3.29,54246,0.26,No,0.408,0.6200000000000001,Low,Low,2.15
+2021,B,Eastern,Kirehe,1444,476.3,21.4,5.81,Loam,ZM621,Improved,138.9,62.3,2.56,44583,1.18,No,0.104,0.6900000000000004,Low,Low,3.09
+2020,B,Eastern,Gatsibo,1403,363.4,21.2,6.14,Clay,Local,Improved,112.9,62.0,1.22,46775,0.68,No,0.251,0.3600000000000003,Low,Low,1.62
+2021,B,Eastern,Gatsibo,1429,417.0,21.2,6.45,Sandy loam,Local,Improved,90.1,53.5,2.74,55210,1.03,No,0.373,0.0499999999999998,Low,Low,1.48
+2018,B,Western,Rubavu,1742,501.5,19.5,5.28,Clay,ZM621,Improved,106.5,46.7,1.14,56814,0.16,No,0.063,1.2199999999999998,Moderate,Low,3.09
+2018,B,Kigali,Nyarugenge,1542,443.4,19.8,6.52,Clay,RHM104,Improved,54.3,64.3,2.82,40603,0.55,No,0.208,0.0199999999999995,Low,Low,2.62
+2020,C,Eastern,Kirehe,1428,183.3,22.0,6.43,Loam,Local,Improved,127.6,49.4,0.77,56223,0.39,No,0.283,0.0700000000000002,Low,Low,1.27
+2017,C,Southern,Ruhango,1669,287.9,18.5,5.97,Clay loam,WH505,Improved,111.8,34.9,3.08,52051,0.94,Yes,0.188,0.5300000000000002,Low,Low,2.72
+2017,A,Northern,Musanze,1835,822.8,17.2,5.82,Volcanic,PAN691,Improved,78.9,75.4,4.79,55830,0.94,No,0.101,0.6799999999999997,Moderate,Low,4.98
+2021,A,Northern,Burera,2092,669.8,17.0,5.4,Volcanic,RHM104,Traditional,31.1,17.8,0.0,27587,0.57,No,0.51,1.0999999999999996,Moderate,Low,2.7
+2019,B,Western,Ngororero,1874,540.2,17.8,6.0,Clay,ZM621,Traditional,12.7,22.1,2.22,38556,0.92,No,0.671,0.5,Moderate,Low,2.18
+2024,B,Northern,Gicumbi,1979,577.8,17.1,6.03,Sandy loam,Local,Improved,137.4,34.0,1.84,69417,2.2,No,0.069,0.4699999999999997,Moderate,Low,2.26
+2022,C,Western,Rusizi,1426,372.6,21.3,6.09,Clay,WH505,Improved,101.8,94.3,1.63,62034,0.64,No,0.168,0.4100000000000001,Low,Low,2.46
+2020,A,Northern,Gakenke,1869,686.5,18.4,5.49,Clay,PAN691,Traditional,17.4,2.6,1.48,45144,0.32,No,0.44,1.0099999999999998,Moderate,Low,2.66
+2017,A,Kigali,Nyarugenge,1534,493.3,20.5,5.67,Sandy loam,Local,Improved,148.0,82.6,0.43,52982,1.24,Yes,0.313,0.8300000000000001,Low,Low,1.71
+2024,B,Northern,Musanze,1927,685.6,17.1,6.77,Volcanic,WH505,Traditional,34.5,4.0,1.1,33199,0.97,No,0.399,0.2699999999999996,Moderate,Low,3.15
+2024,C,Eastern,Kayonza,1440,150.0,22.2,6.33,Clay,ZM621,Traditional,76.1,8.2,2.14,31608,0.44,No,0.342,0.1699999999999999,Low,Low,1.38
+2022,B,Eastern,Bugesera,1477,381.2,21.5,5.87,Clay loam,ZM621,Improved,131.7,60.2,6.15,47481,0.88,No,0.372,0.6299999999999999,Low,Low,3.12
+2017,B,Southern,Kamonyi,1551,370.6,20.5,,Clay loam,Local,Traditional,30.9,27.3,0.0,38184,0.35,No,,,Low,,1.44
+2022,A,Southern,Nyamagabe,1940,853.5,15.7,6.33,Clay,Local,Improved,93.8,67.9,0.92,59006,1.11,No,0.204,0.1699999999999999,Moderate,Low,1.99
+2019,B,Western,Rubavu,1613,,18.2,,Sandy loam,ZM621,Improved,43.6,64.8,0.0,51284,0.74,No,,,,,2.63
+2024,A,Western,Nyamasheke,1820,822.0,19.0,6.32,Clay loam,ZM607,Traditional,28.4,22.6,1.35,40442,1.49,No,0.175,0.1799999999999997,Moderate,Low,3.25
+2023,A,Western,Nyamasheke,1924,692.2,18.4,5.72,Sandy loam,ZM621,Improved,55.6,72.7,2.25,52701,0.62,No,0.334,0.7800000000000002,Moderate,Low,3.03
+2023,B,Southern,Gisagara,1602,408.8,20.1,5.8,Sandy loam,RHM104,Improved,89.9,85.9,0.92,42371,0.44,No,0.265,0.7000000000000002,Low,Low,2.55
+2023,B,Northern,Gicumbi,1990,533.8,17.8,5.75,Loam,ZM607,Improved,86.0,86.6,1.77,52423,0.79,No,0.272,0.75,Moderate,Low,3.27
+2024,B,Southern,Huye,1677,653.4,18.3,5.7,Clay,ZM607,Traditional,0.0,0.0,2.15,42368,1.67,No,0.039,0.7999999999999998,Moderate,Low,2.84
+2019,A,Eastern,Kayonza,1449,428.8,21.5,5.98,Clay loam,ZM621,Traditional,43.2,14.6,3.96,34853,0.75,Yes,0.196,0.5199999999999996,Low,Low,2.88
+2021,C,Eastern,Bugesera,1468,150.0,22.2,6.36,Sandy loam,PAN691,Improved,130.4,89.7,0.98,48424,1.41,No,0.519,0.1399999999999996,Low,Low,1.73
+2017,B,Eastern,Kirehe,1475,413.1,21.3,5.74,Clay,ZM621,Traditional,33.1,9.1,1.41,32631,1.04,No,0.253,0.7599999999999998,Low,Low,1.78
+2017,B,Eastern,Gatsibo,1387,366.2,21.5,4.96,Volcanic,ZM621,Improved,32.1,50.5,3.51,44291,0.77,No,0.633,1.54,Low,Low,1.76
+2018,B,Southern,Gisagara,1680,472.3,19.3,6.39,Clay loam,Local,Improved,151.2,66.6,3.06,57604,1.55,No,0.068,0.1100000000000003,Low,Low,2.15
+2015,A,Western,Rubavu,1678,738.8,18.5,5.23,Clay,WH505,Improved,108.3,57.4,4.05,51580,0.23,No,0.48,1.2699999999999996,Moderate,Low,2.47
+2018,A,Western,Nyamasheke,1835,558.3,18.9,5.52,Loam,WH505,Improved,105.6,65.8,2.3,59017,0.95,No,0.54,0.9800000000000004,Moderate,Low,3.06
+2018,C,Eastern,Kirehe,1348,150.0,21.5,6.42,Sandy loam,RHM104,Improved,81.7,47.7,0.98,48573,0.57,No,0.455,0.08,Low,Low,1.61
+2024,C,Western,Nyamasheke,1830,296.6,18.9,5.43,Loam,RHM104,Improved,83.3,12.4,0.54,52783,0.71,Yes,0.308,1.0700000000000005,Low,Low,3.0
+2024,B,Southern,Kamonyi,1765,539.3,18.9,6.58,Sandy loam,Local,Improved,80.7,76.4,3.55,48713,0.2,No,0.514,0.08,Moderate,Low,1.77
+2020,C,Western,Rutsiro,2013,319.4,18.1,5.42,Clay loam,Local,Improved,108.7,72.0,2.37,54966,0.51,No,0.532,1.08,Low,Low,1.29
+2022,A,Eastern,Kirehe,1489,566.1,21.0,6.68,Sandy loam,PAN691,Traditional,40.2,0.0,1.61,42420,0.65,No,0.325,0.1799999999999997,Moderate,Low,2.97
+2021,B,Kigali,Kicukiro,1421,448.1,19.7,6.61,Loam,ZM607,Improved,139.4,91.6,2.79,60478,0.67,No,0.424,0.1100000000000003,Low,Low,2.94
+2022,B,Eastern,Rwamagana,1579,437.1,21.8,6.24,Clay loam,ZM621,Traditional,39.9,31.6,3.53,38829,0.22,No,0.093,0.2599999999999998,Low,Low,2.9
+2018,C,Kigali,Gasabo,1357,159.7,20.8,6.27,Loam,WH505,Improved,172.4,113.1,2.42,56315,1.37,No,0.071,0.2300000000000004,Low,Low,2.52
+2024,B,Western,Rubavu,1701,622.0,20.0,4.9,Loam,ZM621,Traditional,0.0,15.0,1.93,46648,0.61,No,0.518,1.5999999999999996,Moderate,Low,2.38
+2022,A,Kigali,Gasabo,1426,583.6,20.7,6.74,Clay loam,ZM607,Improved,146.4,65.2,2.04,57057,1.14,No,0.303,0.2400000000000002,Moderate,Low,3.71
+2022,C,Southern,Huye,1812,215.6,19.3,6.47,Loam,ZM607,Improved,32.7,26.6,1.15,53352,1.23,No,0.436,0.0300000000000002,Low,Low,2.11
+2021,B,Northern,Rulindo,1921,593.1,19.2,5.48,Clay loam,WH505,Improved,131.3,40.9,2.58,46418,0.7,No,0.394,1.0199999999999996,Moderate,Low,3.14
+2022,B,Southern,Muhanga,1742,428.8,19.9,6.3,Loam,RHM104,Improved,133.6,113.0,1.88,45678,1.08,No,0.07,0.2000000000000001,Low,Low,3.46
+2023,B,Southern,Huye,1775,579.7,19.0,5.24,Loam,WH505,Traditional,29.1,16.5,3.68,48275,0.53,No,0.283,1.2599999999999998,Moderate,Low,2.54
+2020,B,Kigali,Kicukiro,1535,460.1,20.1,5.9,Clay,ZM621,Improved,132.2,48.2,2.43,49366,1.45,No,0.231,0.5999999999999996,Low,Low,2.53
+2023,C,Eastern,Kayonza,1533,196.6,21.3,6.07,Clay,RHM104,Traditional,16.9,5.3,0.0,38585,0.49,No,0.119,0.4299999999999997,Low,Low,1.98
+2020,A,Western,Rubavu,1646,683.4,19.1,4.75,Sandy loam,Local,Improved,110.1,80.3,1.81,61453,0.42,No,0.213,1.75,Moderate,Low,1.59
+2019,A,Southern,Muhanga,1735,657.6,18.1,5.78,Loam,ZM621,Traditional,41.8,25.9,0.92,35758,0.73,No,0.141,0.7199999999999998,Moderate,Low,2.98
+2021,A,Northern,Rulindo,1933,725.7,19.2,5.56,Volcanic,PAN691,Traditional,28.2,21.0,0.74,38660,2.42,No,0.364,0.9400000000000004,Moderate,Low,4.01
+2016,A,Western,Rutsiro,1835,659.7,18.6,4.91,Volcanic,ZM621,Improved,110.2,88.0,1.3,58206,0.45,No,0.086,1.59,Moderate,Low,3.22
+2020,B,Eastern,Nyagatare,1246,427.2,21.4,6.26,Sandy loam,ZM621,Traditional,13.4,7.3,3.21,41066,2.0,Yes,0.509,0.2400000000000002,Low,Low,1.95
+2021,A,Kigali,Nyarugenge,1453,599.3,21.3,5.24,Loam,WH505,Improved,67.1,27.5,3.21,48458,0.23,No,0.383,1.2599999999999998,Moderate,Low,3.21
+2023,B,Western,Rubavu,1769,540.9,20.6,5.65,Sandy loam,Local,Traditional,7.5,2.0,2.99,28901,1.21,No,0.365,0.8499999999999996,Moderate,Low,1.59
+2015,B,Southern,Muhanga,1672,518.7,19.1,6.13,Loam,ZM621,Improved,155.1,69.6,0.86,46325,1.37,Yes,0.292,0.3700000000000001,Moderate,Low,2.75
+2017,C,Western,Ngororero,2021,371.2,18.1,5.5,Loam,ZM607,Traditional,27.0,3.9,1.31,30721,0.94,Yes,0.371,1.0,Low,Low,1.56
+2017,A,Southern,Gisagara,1717,494.4,20.1,6.52,Volcanic,Local,Traditional,0.0,2.2,1.92,48614,0.92,No,0.092,0.0199999999999995,Low,Low,2.18
+2020,B,Northern,Musanze,1894,719.3,16.8,6.15,Clay,ZM621,Improved,94.5,41.2,0.52,46389,0.68,No,0.542,0.3499999999999996,Moderate,Low,2.08
+2024,A,Eastern,Nyagatare,1510,538.0,21.6,6.43,Volcanic,ZM621,Traditional,85.5,16.0,1.93,43414,1.36,No,0.181,0.0700000000000002,Moderate,Low,3.68
+2022,A,Western,Nyamasheke,1769,657.9,18.5,6.0,Clay,ZM621,Traditional,22.5,0.0,1.78,41884,1.22,No,0.43,0.5,Moderate,Low,2.89
+2019,A,Northern,Rulindo,1988,495.3,18.9,5.52,Volcanic,WH505,Improved,125.3,45.2,2.0,57055,1.31,No,0.267,0.9800000000000004,Low,Low,3.33
+2015,A,Eastern,Ngoma,1539,467.8,21.9,5.78,Loam,ZM621,Traditional,40.1,7.3,2.86,29541,1.36,Yes,0.244,0.7199999999999998,Low,Low,2.39
+2018,A,Northern,Rulindo,1879,686.1,18.8,5.71,Loam,WH505,Traditional,38.2,21.2,1.31,36785,0.62,No,0.363,0.79,Moderate,Low,2.68
+2022,A,Western,Ngororero,1967,630.8,18.7,5.82,Clay,ZM607,Improved,147.3,27.1,1.45,64528,0.64,No,0.479,0.6799999999999997,Moderate,Low,3.33
+2017,B,Northern,Musanze,1866,590.4,18.2,5.22,Clay,WH505,Improved,45.3,73.6,1.41,62239,0.47,No,0.647,1.2800000000000002,Moderate,Low,2.05
+2021,A,Northern,Musanze,1810,595.2,17.4,5.28,Loam,ZM621,Traditional,69.0,14.0,0.0,39713,0.6,No,0.339,1.2199999999999998,Moderate,Low,2.07
+2018,A,Eastern,Gatsibo,1329,370.7,21.6,5.83,Clay,ZM621,Improved,63.7,45.6,3.2,60772,1.3,No,0.009,0.6699999999999999,Low,Low,2.97
+2015,A,Western,Ngororero,1943,758.1,18.2,5.66,Loam,WH505,Improved,108.2,81.8,1.16,49302,0.33,No,0.022,0.8399999999999999,Moderate,Low,3.02
+2015,B,Northern,Gicumbi,1936,460.4,16.7,5.66,Clay loam,ZM621,Traditional,64.2,0.0,1.47,40882,3.06,No,0.629,0.8399999999999999,Low,Low,1.74
+2019,C,Kigali,Kicukiro,1526,268.6,20.9,5.67,Loam,Local,Traditional,32.5,0.0,3.57,38913,1.51,Yes,0.079,0.8300000000000001,Low,Low,1.49
+2016,B,Southern,Nyaruguru,1825,509.1,17.2,5.57,Clay,RHM104,Improved,120.4,75.0,0.64,51438,0.22,No,0.456,0.9299999999999996,Moderate,Low,2.06
+2023,A,Eastern,Nyagatare,1451,534.1,22.0,6.34,Loam,ZM621,Improved,3.8,101.5,2.01,50627,0.47,No,0.146,0.1600000000000001,Moderate,Low,3.24
+2017,A,Western,Ngororero,1860,786.2,17.3,5.48,Volcanic,WH505,Traditional,38.3,39.5,0.0,47657,0.48,No,0.074,1.0199999999999996,Moderate,Low,3.37
+2017,B,Western,Ngororero,1804,507.9,17.7,5.73,Loam,RHM104,Improved,137.9,52.2,0.43,53456,0.89,No,0.166,0.7699999999999996,Moderate,Low,3.24
+2022,A,Northern,Gicumbi,1942,512.4,17.6,5.17,Loam,ZM621,Improved,93.9,59.0,2.6,51040,0.45,No,0.207,1.33,Moderate,Low,3.24
+2015,C,Southern,Nyanza,1714,150.0,19.2,5.79,Clay,RHM104,Traditional,37.9,1.3,3.91,34234,0.46,No,0.531,0.71,Low,Low,1.39
+2021,A,Eastern,Bugesera,1347,437.4,22.5,6.15,Loam,ZM607,Improved,127.1,78.0,0.0,38044,1.44,No,0.124,0.3499999999999996,Low,Low,2.83
+2018,A,Northern,Gakenke,1845,682.9,16.9,5.15,Clay,Local,Traditional,34.8,12.0,0.0,36684,1.96,No,0.097,1.3499999999999996,Moderate,Low,1.24
+2016,A,Western,Nyabihu,2096,768.1,16.5,5.18,Loam,Local,Traditional,0.0,14.6,1.78,58724,0.8,No,0.419,1.3200000000000005,Moderate,Low,1.64
+2018,A,Kigali,Gasabo,1487,567.8,21.5,5.78,Loam,Local,Improved,61.2,123.8,0.38,52611,0.83,No,0.219,0.7199999999999998,Moderate,Low,2.4
+2023,B,Western,Nyabihu,2200,527.8,16.7,5.07,Clay,RHM104,Improved,117.8,75.6,3.72,49197,0.66,No,0.371,1.4299999999999995,Moderate,Low,2.55
+2019,A,Western,Rutsiro,1903,682.6,19.7,5.66,Clay,WH505,Traditional,16.2,0.0,2.5,41898,0.98,No,0.224,0.8399999999999999,Moderate,Low,3.13
+2020,B,Southern,Nyamagabe,2115,370.1,17.3,6.08,Clay loam,Local,Improved,123.7,53.3,4.25,57673,0.93,No,0.524,0.4199999999999999,Low,Low,1.71
+2020,B,Southern,Nyaruguru,1944,688.8,17.7,5.85,Loam,RHM104,Traditional,59.6,18.1,0.54,39871,2.41,No,0.202,0.6500000000000004,Moderate,Low,3.21
+2016,A,Western,Rubavu,1543,679.5,19.6,6.03,Clay loam,ZM621,Improved,114.5,39.4,1.89,52436,0.18,Yes,0.131,0.4699999999999997,Moderate,Low,3.39
+2017,B,Western,Rutsiro,1945,599.0,17.3,6.03,Volcanic,WH505,Traditional,63.9,27.3,1.95,31075,1.68,No,0.162,0.4699999999999997,Moderate,Low,2.82
+2024,A,Kigali,Nyarugenge,1537,501.6,21.0,6.1,Clay loam,ZM621,Improved,141.9,34.7,2.02,55950,0.24,No,0.447,0.4000000000000003,Moderate,Low,3.53
+2017,C,Western,Rutsiro,1781,265.2,18.2,5.42,Sandy loam,PAN691,Improved,101.5,46.5,1.92,53804,0.46,No,0.073,1.08,Low,Low,2.33
+2018,B,Eastern,Ngoma,1392,473.2,20.7,5.99,Clay,ZM621,Traditional,4.6,3.1,2.96,31872,0.6,No,0.52,0.5099999999999998,Low,Low,2.1
+2020,C,Southern,Nyanza,1755,353.7,19.9,5.11,Clay,RHM104,Improved,114.3,16.5,2.4,54263,0.83,No,0.437,1.3899999999999997,Low,Low,2.2
+2019,B,Eastern,Nyagatare,1442,414.7,21.3,5.99,Loam,RHM104,Improved,111.2,37.4,1.49,56223,0.59,No,0.507,0.5099999999999998,Low,Low,3.04
+2016,C,Western,Karongi,1774,180.4,19.2,5.41,Clay loam,ZM607,Traditional,56.8,2.0,2.37,37667,0.24,Yes,0.27,1.09,Low,Low,1.81
+2020,A,Southern,Huye,1764,643.6,19.3,6.1,Clay,ZM621,Improved,140.4,56.9,0.0,51870,0.48,No,0.152,0.4000000000000003,Moderate,Low,3.6
+2017,B,Southern,Gisagara,1618,460.0,20.5,6.31,Loam,RHM104,Traditional,36.0,15.1,1.43,30024,0.73,No,0.034,0.1900000000000004,Low,Low,2.67
+2022,B,Eastern,Ngoma,1502,444.0,21.0,5.08,Clay loam,RHM104,Improved,91.9,95.1,1.89,45066,0.42,No,0.814,1.42,Low,Low,2.16
+2015,C,Eastern,Kirehe,1500,344.5,21.5,5.85,Clay,PAN691,Improved,86.8,82.9,0.0,58172,0.53,No,0.061,0.6500000000000004,Low,Low,2.09
+2018,A,Kigali,Kicukiro,1551,494.9,20.0,5.59,Clay loam,Local,Traditional,20.9,0.0,3.31,37642,1.27,No,0.225,0.91,Low,Low,1.71
+2022,A,Eastern,Ngoma,1474,569.4,21.6,5.68,Sandy loam,Local,Improved,105.0,74.0,2.48,54638,0.35,No,0.376,0.8200000000000003,Moderate,Low,1.71
+2019,A,Western,Rubavu,1677,593.6,20.0,6.11,Loam,ZM621,Traditional,24.5,0.0,1.02,36221,0.78,No,0.209,0.3899999999999997,Moderate,Low,3.67
+2019,B,Northern,Gicumbi,1958,463.4,17.9,6.14,Clay,ZM607,Traditional,57.4,0.0,3.1,36806,1.17,No,0.417,0.3600000000000003,Low,Low,2.0
+2019,A,Kigali,Nyarugenge,1479,473.2,20.8,5.94,Clay,ZM621,Improved,64.8,39.0,3.88,53454,1.0,No,0.171,0.5599999999999996,Low,Low,3.21
+2023,A,Southern,Nyaruguru,1896,662.7,17.6,6.39,Clay loam,ZM621,Improved,95.6,45.4,0.52,39718,1.42,Yes,0.47,0.1100000000000003,Moderate,Low,3.22
+2024,C,Western,Karongi,1780,176.7,19.9,5.53,Volcanic,ZM621,Traditional,14.5,4.1,1.41,44489,0.64,No,0.276,0.9699999999999998,Low,Low,2.49
+2017,B,Kigali,Nyarugenge,1470,496.7,20.7,6.03,Loam,ZM607,Improved,77.6,62.5,1.67,57261,1.47,No,0.089,0.4699999999999997,Low,Low,3.14
+2022,A,Eastern,Kayonza,1623,375.4,21.4,6.55,Loam,PAN691,Improved,89.2,7.7,3.53,47327,1.95,No,0.093,0.0499999999999998,Low,Low,3.6
+2016,C,Southern,Nyaruguru,1904,318.8,17.7,6.21,Clay,Local,Traditional,60.1,4.9,2.16,30324,0.92,No,0.134,0.29,Low,Low,1.14
+2021,B,Southern,Nyaruguru,2092,591.3,17.4,5.99,Clay loam,ZM621,Traditional,27.7,14.5,2.74,35520,0.4,No,0.18,0.5099999999999998,Moderate,Low,2.79
+2024,C,Southern,Nyanza,1722,256.6,19.4,5.9,Loam,WH505,Improved,67.5,97.8,0.92,54636,1.51,Yes,0.071,0.5999999999999996,Low,Low,3.29
+2021,C,Southern,Gisagara,1719,174.3,19.3,5.53,Loam,Local,Traditional,33.7,13.3,3.5,51312,1.67,No,0.303,0.9699999999999998,Low,Low,1.25
+2021,C,Western,Nyamasheke,1735,329.3,18.6,6.47,Loam,ZM621,Improved,88.6,48.6,0.84,60130,0.33,No,0.274,0.0300000000000002,Low,Low,2.22
+2018,B,Kigali,Kicukiro,1422,417.1,20.3,5.73,Loam,WH505,Traditional,24.5,26.7,0.76,27950,0.54,No,0.568,0.7699999999999996,Low,Low,1.92
+2020,A,Eastern,Ngoma,1452,492.2,21.2,6.44,Loam,ZM621,Traditional,39.6,15.8,3.59,36355,0.28,No,0.594,0.0599999999999996,Low,Low,2.06
+2018,A,Southern,Muhanga,1651,715.7,19.5,6.13,Clay,ZM607,Improved,111.7,76.9,1.7,39844,0.27,No,0.142,0.3700000000000001,Moderate,Low,3.03
+2023,B,Kigali,Kicukiro,1528,556.6,21.3,5.8,Loam,ZM621,Traditional,45.3,17.8,1.79,42999,1.31,No,0.245,0.7000000000000002,Moderate,Low,2.83
+2023,B,Eastern,Kayonza,1511,394.8,21.8,6.19,Loam,PAN691,Improved,97.6,62.2,2.78,43803,0.56,No,0.153,0.3099999999999996,Low,Low,3.75
+2022,B,Northern,Gakenke,1905,618.5,18.1,5.74,Clay loam,ZM621,Traditional,15.8,0.7,4.04,43872,0.79,No,0.076,0.7599999999999998,Moderate,Low,2.93
+2022,A,Western,Rutsiro,1951,571.6,18.0,5.17,Clay loam,WH505,Traditional,18.6,16.5,1.68,28260,0.59,No,0.474,1.33,Moderate,Low,2.3
+2017,A,Western,Karongi,1707,663.1,19.0,5.79,Loam,ZM607,Improved,49.5,87.2,1.84,59952,0.59,No,0.124,0.71,Moderate,Low,3.46
+2020,A,Northern,Burera,2098,836.3,18.0,6.15,Volcanic,ZM621,Improved,100.5,99.1,2.34,53100,0.7,No,0.427,0.3499999999999996,Moderate,Low,2.98
+2018,A,Southern,Huye,1737,538.6,19.1,6.37,Clay,ZM607,Traditional,37.0,0.0,5.02,41171,1.02,No,0.051,0.1299999999999999,Moderate,Low,2.82
+2021,B,Eastern,Bugesera,1436,329.9,21.5,5.78,Loam,ZM621,Traditional,38.3,3.0,0.82,37862,3.01,No,0.811,0.7199999999999998,Low,Low,2.08
+2019,A,Southern,Huye,1766,678.8,18.5,6.44,Loam,WH505,Traditional,15.7,15.6,4.62,41407,1.32,No,0.284,0.0599999999999996,Moderate,Low,3.58
+2017,B,Southern,Huye,1699,622.8,19.5,6.45,Loam,ZM621,Improved,130.4,14.5,0.0,48583,0.62,No,0.251,0.0499999999999998,Moderate,Low,3.1
+2022,A,Western,Nyabihu,2174,809.4,17.7,5.93,Volcanic,ZM607,Improved,124.8,71.1,5.31,55610,0.55,No,0.571,0.5700000000000003,Moderate,Low,3.19
+2019,A,Southern,Huye,1869,606.2,18.4,6.71,Loam,ZM621,Traditional,25.9,12.5,2.6,42406,0.42,No,0.265,0.2099999999999999,Moderate,Low,3.1
+2023,A,Kigali,Nyarugenge,1397,511.5,20.4,5.87,Clay,Local,Improved,98.3,66.9,2.64,62915,0.66,No,0.227,0.6299999999999999,Moderate,Low,2.35
+2023,A,Western,Ngororero,1974,677.3,16.2,5.96,Loam,Local,Improved,50.1,61.9,2.8,55184,0.47,No,0.113,0.54,Moderate,Low,2.35
+2020,A,Western,Nyabihu,2235,716.8,16.7,5.64,Clay loam,PAN691,Improved,80.1,106.8,1.54,43368,0.43,No,0.044,0.8600000000000003,Moderate,Low,3.43
+2016,A,Eastern,Bugesera,1534,378.9,21.8,6.48,Clay loam,RHM104,Traditional,17.4,0.0,2.9,33927,1.23,No,0.132,0.0199999999999995,Low,Low,2.66
+2019,B,Kigali,Kicukiro,1569,413.0,20.5,6.24,Clay,Local,Improved,173.9,14.1,2.75,51479,0.46,No,0.396,0.2599999999999998,Low,Low,1.9
+2022,B,Western,Nyabihu,2180,570.7,17.0,5.59,Loam,WH505,Traditional,31.6,0.6,3.87,22635,2.13,No,0.278,0.91,Moderate,Low,1.99
+2021,B,Southern,Huye,1803,658.2,18.0,5.45,Loam,ZM621,Improved,102.8,65.7,1.91,46273,0.91,No,0.135,1.0499999999999998,Moderate,Low,3.05
+2019,A,Eastern,Kayonza,1444,389.9,20.6,6.14,Sandy loam,RHM104,Improved,113.1,64.3,1.24,57878,1.24,No,0.213,0.3600000000000003,Low,Low,3.36
+2019,A,Northern,Musanze,2011,691.0,17.6,5.69,Clay loam,PAN691,Traditional,20.5,39.8,0.6,32138,0.34,No,0.25,0.8099999999999996,Moderate,Low,2.94
+2020,B,Northern,Gicumbi,1888,627.7,18.8,5.81,Clay,ZM607,Traditional,50.1,25.3,3.37,41787,2.17,No,0.304,0.6900000000000004,Moderate,Low,2.66
+2021,A,Western,Karongi,1655,524.5,18.2,5.64,Clay,ZM607,Improved,82.9,105.4,2.89,60269,1.16,No,0.161,0.8600000000000003,Moderate,Low,3.37
+2022,B,Western,Karongi,1623,665.8,19.5,5.52,Loam,Local,Improved,109.6,114.6,0.7,46294,0.83,No,0.432,0.9800000000000004,Moderate,Low,2.04
+2017,A,Western,Karongi,1793,702.1,19.0,4.54,Clay,ZM621,Improved,166.1,59.6,0.06,50482,0.67,No,0.412,1.96,Moderate,Low,1.88
+2017,B,Northern,Gakenke,1938,564.4,18.2,5.54,Clay loam,Local,Traditional,0.0,16.7,1.4,43038,0.73,No,0.403,0.96,Moderate,Low,1.65
+2018,B,Southern,Ruhango,1792,501.6,19.5,6.25,Clay,WH505,Traditional,52.4,15.2,0.47,36837,0.24,No,0.46,0.25,Moderate,Low,2.1
+2017,B,Western,Ngororero,1903,482.2,17.8,5.53,Clay loam,ZM607,Traditional,15.2,12.3,1.01,46867,0.9,No,0.214,0.9699999999999998,Low,Low,2.36
+2023,A,Eastern,Ngoma,1550,506.6,21.5,5.9,Clay loam,ZM621,Improved,98.1,106.4,1.14,54303,0.52,No,0.288,0.5999999999999996,Moderate,Low,3.22
+2020,A,Kigali,Nyarugenge,1539,680.4,19.9,6.02,Loam,WH505,Improved,75.0,95.4,4.87,53688,0.57,No,0.235,0.4800000000000004,Moderate,Low,3.8
+2015,B,Northern,Rulindo,1946,451.5,18.1,5.12,Volcanic,ZM621,Improved,146.3,76.5,2.02,50233,0.52,No,0.398,1.38,Low,Low,2.72
+2020,A,Southern,Gisagara,1535,455.9,20.0,6.36,Clay,WH505,Traditional,30.1,15.6,1.88,37258,1.27,No,0.133,0.1399999999999996,Low,Low,2.5
+2022,A,Northern,Rulindo,1862,584.1,18.0,5.34,Sandy loam,ZM621,Traditional,26.5,5.8,1.12,43469,0.13,No,0.424,1.16,Moderate,Low,2.45
+2020,C,Southern,Ruhango,1678,222.4,19.0,6.77,Volcanic,PAN691,Traditional,0.0,20.1,1.01,35986,0.36,No,0.25,0.2699999999999996,Low,Low,1.81
+2019,A,Southern,Ruhango,1693,,19.4,,Loam,WH505,Traditional,0.0,0.0,2.97,35972,0.22,No,,,,,3.75
+2018,A,Northern,Gakenke,1819,568.4,17.9,5.68,Volcanic,PAN691,Improved,137.2,51.1,6.57,49613,0.39,No,0.18,0.8200000000000003,Moderate,Low,4.45
+2023,A,Northern,Musanze,1844,701.4,17.2,5.47,Clay loam,WH505,Improved,49.3,60.6,0.0,61053,1.77,No,0.131,1.0300000000000002,Moderate,Low,3.33
+2016,B,Kigali,Nyarugenge,1569,538.8,21.4,6.07,Sandy loam,RHM104,Improved,66.3,91.7,4.06,47053,1.2,No,0.265,0.4299999999999997,Moderate,Low,3.28
+2018,A,Eastern,Nyagatare,1469,453.1,22.1,6.06,Clay loam,RHM104,Traditional,66.0,35.3,0.0,35901,0.26,No,0.355,0.4400000000000004,Low,Low,2.76
+2021,A,Eastern,Ngoma,1578,424.6,21.7,5.64,Volcanic,WH505,Traditional,71.3,0.0,2.92,45557,0.46,No,0.311,0.8600000000000003,Low,Low,2.76
+2017,B,Southern,Muhanga,1718,619.1,19.8,5.99,Loam,RHM104,Traditional,4.3,9.9,3.3,26383,0.65,No,0.26,0.5099999999999998,Moderate,Low,2.71
+2017,B,Eastern,Kayonza,1487,339.6,21.6,6.45,Loam,RHM104,Improved,29.0,73.4,6.65,52263,0.62,No,0.929,0.0499999999999998,Low,Low,2.63
+2021,A,Southern,Kamonyi,1755,669.2,20.5,6.19,Loam,PAN691,Improved,143.4,48.1,3.64,53722,0.32,Yes,0.438,0.3099999999999996,Moderate,Low,4.35
+2016,B,Eastern,Ngoma,1452,371.5,20.6,5.59,Loam,Local,Improved,159.5,43.3,2.44,54876,0.58,No,0.47,0.91,Low,Low,1.49
+2018,B,Eastern,Bugesera,1526,546.8,20.9,6.1,Volcanic,RHM104,Traditional,13.3,5.7,0.59,44877,0.1,No,0.218,0.4000000000000003,Moderate,Low,3.07
+2017,B,Southern,Nyanza,1649,354.3,20.4,4.89,Clay,WH505,Improved,115.6,88.8,2.55,56508,0.52,No,0.308,1.6100000000000003,Low,Low,1.87
+2015,B,Western,Rusizi,1418,550.7,22.0,5.06,Sandy loam,ZM607,Improved,155.1,72.2,2.26,49637,0.68,No,0.157,1.4400000000000004,Moderate,Low,2.1
+2018,C,Kigali,Gasabo,1562,220.7,20.3,6.37,Clay,ZM607,Improved,47.6,74.8,2.94,60471,2.39,No,0.166,0.1299999999999999,Low,Low,1.98
+2015,B,Kigali,Gasabo,1516,596.4,20.1,5.74,Clay,PAN691,Improved,122.2,54.4,0.0,46906,0.81,No,0.603,0.7599999999999998,Moderate,Low,2.11
+2021,C,Eastern,Rwamagana,1571,352.3,21.3,6.22,Clay,Local,Improved,103.8,132.1,0.0,54398,0.79,Yes,0.218,0.2800000000000002,Low,Low,1.73
+2022,A,Kigali,Nyarugenge,1504,534.8,20.6,5.62,Sandy loam,WH505,Improved,82.3,77.2,2.82,37269,0.78,No,0.206,0.8799999999999999,Moderate,Low,2.99
+2018,A,Northern,Musanze,1924,744.5,17.7,5.35,Loam,WH505,Improved,95.6,59.0,4.29,49705,0.3,No,0.39,1.1500000000000004,Moderate,Low,2.97
+2024,C,Western,Karongi,1626,211.3,19.2,6.61,Sandy loam,ZM607,Traditional,48.0,31.3,1.63,36688,0.41,No,0.414,0.1100000000000003,Low,Low,1.62
+2017,A,Eastern,Gatsibo,1379,603.4,21.7,6.78,Loam,Local,Traditional,12.1,0.0,0.0,45722,0.46,No,0.049,0.2800000000000002,Moderate,Low,1.6
+2021,B,Southern,Huye,1823,487.0,18.6,6.11,Clay,WH505,Improved,90.7,75.1,1.78,50351,2.09,No,0.361,0.3899999999999997,Low,Low,2.99

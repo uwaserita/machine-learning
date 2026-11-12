@@ -1,0 +1,6 @@
+Feature,Purpose,Reason
+rainfall_temperature_ratio,Examines rainfall relative to temperature.,May help identify climate conditions affecting yield.
+soil_ph_difference,Measures soil pH distance from 6.5.,May help assess soil suitability.
+rainfall_category,Groups rainfall into categories.,Makes rainfall patterns easier to interpret.
+temperature_category,Groups temperature into categories.,Makes temperature patterns easier to compare.
+pest_risk_category,Groups pest incidence into risk levels.,Helps examine the effect of pest pressure.
